@@ -1,0 +1,5 @@
+gameState- start
+instructions,harry potter logo, start button.
+maze
+create a maze with fire and ghosts, bushes as well and reach the door to go to the next level in 1 minute. if they lose 
+they need to begin again
